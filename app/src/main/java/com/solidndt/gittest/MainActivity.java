@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("chengGit", "onCreate: 测试Git");
+        System.out.println("第二次更改代码,测试Git");
     }
 }
